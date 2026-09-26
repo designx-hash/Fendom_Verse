@@ -1,0 +1,2239 @@
+{
+ "cats": [
+  {
+   "id": "anime",
+   "name": "Anime",
+   "color": "#00F0FF",
+   "blurb": "Heroes, rivalries and shonen sagas."
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming",
+   "color": "#10B981",
+   "blurb": "Worlds, esports and speedruns."
+  },
+  {
+   "id": "movies",
+   "name": "Movies",
+   "color": "#F43F5E",
+   "blurb": "Blockbusters and quiet gems."
+  },
+  {
+   "id": "tv",
+   "name": "TV Shows",
+   "color": "#3B82F6",
+   "blurb": "Series, finales and binge lists."
+  },
+  {
+   "id": "kpop",
+   "name": "K-Pop",
+   "color": "#EC4899",
+   "blurb": "Idols, comebacks and tours."
+  },
+  {
+   "id": "comics",
+   "name": "Comics",
+   "color": "#EAB308",
+   "blurb": "Capes, crossovers and indie ink."
+  },
+  {
+   "id": "manga",
+   "name": "Manga",
+   "color": "#EF4444",
+   "blurb": "Chapters, arcs and fan theories."
+  }
+ ],
+ "items": [
+  {
+   "cat": "anime",
+   "type": "article",
+   "title": "A beginner's guide to Anime",
+   "desc": "Featured Anime read #1 for new and long-time fans.",
+   "tags": [
+    "shonen",
+    "fantasy"
+   ],
+   "date": "2026-09-12",
+   "body": [
+    "Anime communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the shonen side of Anime special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i1",
+   "pop": 60
+  },
+  {
+   "cat": "anime",
+   "type": "article",
+   "title": "Top five Anime moments this year",
+   "desc": "Featured Anime read #2 for new and long-time fans.",
+   "tags": [
+    "fantasy",
+    "slice of life"
+   ],
+   "date": "2026-08-13",
+   "body": [
+    "Anime communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the fantasy side of Anime special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i2",
+   "pop": 49
+  },
+  {
+   "cat": "anime",
+   "type": "article",
+   "title": "Why Anime fans love community events",
+   "desc": "Featured Anime read #3 for new and long-time fans.",
+   "tags": [
+    "slice of life",
+    "mecha"
+   ],
+   "date": "2026-07-14",
+   "body": [
+    "Anime communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the slice of life side of Anime special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i3",
+   "pop": 65
+  },
+  {
+   "cat": "anime",
+   "type": "character",
+   "title": "Kaito Ren",
+   "desc": "Skyward Blade \u00b7 calm and loyal.",
+   "tags": [
+    "shonen"
+   ],
+   "date": "2026-01-05",
+   "series": "Skyward Blade",
+   "traits": [
+    "calm",
+    "loyal",
+    "fierce"
+   ],
+   "bio": "Kaito Ren is a fictional lead from Skyward Blade, known for being calm and loyal under pressure.",
+   "id": "i4",
+   "pop": 81
+  },
+  {
+   "cat": "anime",
+   "type": "character",
+   "title": "Mira Solstice",
+   "desc": "Skyward Blade \u00b7 brave and mysterious.",
+   "tags": [
+    "fantasy"
+   ],
+   "date": "2026-02-05",
+   "series": "Skyward Blade",
+   "traits": [
+    "brave",
+    "mysterious",
+    "kind"
+   ],
+   "bio": "Mira Solstice is a fictional lead from Skyward Blade, known for being brave and mysterious under pressure.",
+   "id": "i5",
+   "pop": 43
+  },
+  {
+   "cat": "anime",
+   "type": "character",
+   "title": "Ozo the Ember Fox",
+   "desc": "Emberfall \u00b7 witty and fierce.",
+   "tags": [
+    "slice of life"
+   ],
+   "date": "2026-03-05",
+   "series": "Emberfall",
+   "traits": [
+    "witty",
+    "fierce",
+    "clever"
+   ],
+   "bio": "Ozo the Ember Fox is a fictional lead from Emberfall, known for being witty and fierce under pressure.",
+   "id": "i6",
+   "pop": 44
+  },
+  {
+   "cat": "anime",
+   "type": "character",
+   "title": "Yuna Vale",
+   "desc": "Emberfall \u00b7 loyal and kind.",
+   "tags": [
+    "mecha"
+   ],
+   "date": "2026-04-05",
+   "series": "Emberfall",
+   "traits": [
+    "loyal",
+    "kind",
+    "calm"
+   ],
+   "bio": "Yuna Vale is a fictional lead from Emberfall, known for being loyal and kind under pressure.",
+   "id": "i7",
+   "pop": 92
+  },
+  {
+   "cat": "anime",
+   "type": "character",
+   "title": "Captain Hoshi",
+   "desc": "Tidecallers \u00b7 mysterious and clever.",
+   "tags": [
+    "shonen"
+   ],
+   "date": "2026-05-05",
+   "series": "Tidecallers",
+   "traits": [
+    "mysterious",
+    "clever",
+    "brave"
+   ],
+   "bio": "Captain Hoshi is a fictional lead from Tidecallers, known for being mysterious and clever under pressure.",
+   "id": "i8",
+   "pop": 74
+  },
+  {
+   "cat": "anime",
+   "type": "event",
+   "title": "Anime Fan Convention",
+   "desc": "City Expo Hall \u00b7 2026-10-18",
+   "tags": [
+    "shonen"
+   ],
+   "date": "2026-10-18",
+   "location": "City Expo Hall",
+   "body": [
+    "A fan-run fan convention for the Anime community. Bring friends and share your favourite moments."
+   ],
+   "id": "i9",
+   "pop": 46
+  },
+  {
+   "cat": "anime",
+   "type": "event",
+   "title": "Anime Watch Party Night",
+   "desc": "Online Live Room \u00b7 2026-11-06",
+   "tags": [
+    "fantasy"
+   ],
+   "date": "2026-11-06",
+   "location": "Online Live Room",
+   "body": [
+    "A fan-run watch party night for the Anime community. Bring friends and share your favourite moments."
+   ],
+   "id": "i10",
+   "pop": 63
+  },
+  {
+   "cat": "anime",
+   "type": "event",
+   "title": "Anime Community Meetup",
+   "desc": "Community Caf\u00e9 \u00b7 2026-08-22",
+   "tags": [
+    "slice of life"
+   ],
+   "date": "2026-08-22",
+   "location": "Community Caf\u00e9",
+   "body": [
+    "A fan-run community meetup for the Anime community. Bring friends and share your favourite moments."
+   ],
+   "id": "i11",
+   "pop": 77
+  },
+  {
+   "cat": "anime",
+   "type": "video",
+   "title": "Anime: Official-style Trailer: Season Preview",
+   "desc": "Trailer \u00b7 upcoming",
+   "tags": [
+    "shonen",
+    "trailer"
+   ],
+   "date": "2026-09-01",
+   "status": "upcoming",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i12",
+   "pop": 43
+  },
+  {
+   "cat": "anime",
+   "type": "video",
+   "title": "Anime: Recently Released Trailer",
+   "desc": "Trailer \u00b7 released",
+   "tags": [
+    "fantasy",
+    "trailer"
+   ],
+   "date": "2026-09-02",
+   "status": "released",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i13",
+   "pop": 98
+  },
+  {
+   "cat": "anime",
+   "type": "video",
+   "title": "Anime Creator Interview",
+   "desc": "Interview with a fan creator.",
+   "tags": [
+    "shonen",
+    "interview"
+   ],
+   "date": "2026-08-01",
+   "kind": "interview",
+   "src": "herovideo.mp4",
+   "id": "i14",
+   "pop": 72
+  },
+  {
+   "cat": "anime",
+   "type": "audio",
+   "title": "Anime Podcast Ep. 1",
+   "desc": "Podcast-style audio clip.",
+   "tags": [
+    "fantasy",
+    "podcast"
+   ],
+   "date": "2026-07-15",
+   "src": "audio/clip.wav",
+   "id": "i15",
+   "pop": 53
+  },
+  {
+   "cat": "anime",
+   "type": "gallery",
+   "title": "Anime Image Gallery",
+   "desc": "Six original artworks. Open the lightbox.",
+   "tags": [
+    "slice of life"
+   ],
+   "date": "2026-09-10",
+   "count": 6,
+   "id": "i16",
+   "pop": 42
+  },
+  {
+   "cat": "anime",
+   "type": "release",
+   "title": "Anime Release #1",
+   "desc": "Upcoming release \u00b7 2026-12-05",
+   "tags": [
+    "shonen"
+   ],
+   "date": "2026-12-05",
+   "id": "i17",
+   "pop": 45
+  },
+  {
+   "cat": "anime",
+   "type": "release",
+   "title": "Anime Release #2",
+   "desc": "Upcoming release \u00b7 2027-01-16",
+   "tags": [
+    "fantasy"
+   ],
+   "date": "2027-01-16",
+   "id": "i18",
+   "pop": 67
+  },
+  {
+   "cat": "gaming",
+   "type": "article",
+   "title": "A beginner's guide to Gaming",
+   "desc": "Featured Gaming read #1 for new and long-time fans.",
+   "tags": [
+    "rpg",
+    "esports"
+   ],
+   "date": "2026-09-12",
+   "body": [
+    "Gaming communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the rpg side of Gaming special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i19",
+   "pop": 66
+  },
+  {
+   "cat": "gaming",
+   "type": "article",
+   "title": "Top five Gaming moments this year",
+   "desc": "Featured Gaming read #2 for new and long-time fans.",
+   "tags": [
+    "esports",
+    "indie"
+   ],
+   "date": "2026-08-13",
+   "body": [
+    "Gaming communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the esports side of Gaming special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i20",
+   "pop": 44
+  },
+  {
+   "cat": "gaming",
+   "type": "article",
+   "title": "Why Gaming fans love community events",
+   "desc": "Featured Gaming read #3 for new and long-time fans.",
+   "tags": [
+    "indie",
+    "co-op"
+   ],
+   "date": "2026-07-14",
+   "body": [
+    "Gaming communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the indie side of Gaming special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i21",
+   "pop": 55
+  },
+  {
+   "cat": "gaming",
+   "type": "character",
+   "title": "Rook Vega",
+   "desc": "Neon Drift \u00b7 calm and loyal.",
+   "tags": [
+    "rpg"
+   ],
+   "date": "2026-01-05",
+   "series": "Neon Drift",
+   "traits": [
+    "calm",
+    "loyal",
+    "fierce"
+   ],
+   "bio": "Rook Vega is a fictional lead from Neon Drift, known for being calm and loyal under pressure.",
+   "id": "i22",
+   "pop": 45
+  },
+  {
+   "cat": "gaming",
+   "type": "character",
+   "title": "Astra Bolt",
+   "desc": "Neon Drift \u00b7 brave and mysterious.",
+   "tags": [
+    "esports"
+   ],
+   "date": "2026-02-05",
+   "series": "Neon Drift",
+   "traits": [
+    "brave",
+    "mysterious",
+    "kind"
+   ],
+   "bio": "Astra Bolt is a fictional lead from Neon Drift, known for being brave and mysterious under pressure.",
+   "id": "i23",
+   "pop": 75
+  },
+  {
+   "cat": "gaming",
+   "type": "character",
+   "title": "Grim Halloway",
+   "desc": "Dungeon Choir \u00b7 witty and fierce.",
+   "tags": [
+    "indie"
+   ],
+   "date": "2026-03-05",
+   "series": "Dungeon Choir",
+   "traits": [
+    "witty",
+    "fierce",
+    "clever"
+   ],
+   "bio": "Grim Halloway is a fictional lead from Dungeon Choir, known for being witty and fierce under pressure.",
+   "id": "i24",
+   "pop": 67
+  },
+  {
+   "cat": "gaming",
+   "type": "character",
+   "title": "Pixel Pip",
+   "desc": "Dungeon Choir \u00b7 loyal and kind.",
+   "tags": [
+    "co-op"
+   ],
+   "date": "2026-04-05",
+   "series": "Dungeon Choir",
+   "traits": [
+    "loyal",
+    "kind",
+    "calm"
+   ],
+   "bio": "Pixel Pip is a fictional lead from Dungeon Choir, known for being loyal and kind under pressure.",
+   "id": "i25",
+   "pop": 43
+  },
+  {
+   "cat": "gaming",
+   "type": "character",
+   "title": "Juno Cray",
+   "desc": "Starforge \u00b7 mysterious and clever.",
+   "tags": [
+    "rpg"
+   ],
+   "date": "2026-05-05",
+   "series": "Starforge",
+   "traits": [
+    "mysterious",
+    "clever",
+    "brave"
+   ],
+   "bio": "Juno Cray is a fictional lead from Starforge, known for being mysterious and clever under pressure.",
+   "id": "i26",
+   "pop": 92
+  },
+  {
+   "cat": "gaming",
+   "type": "event",
+   "title": "Gaming Fan Convention",
+   "desc": "City Expo Hall \u00b7 2026-10-18",
+   "tags": [
+    "rpg"
+   ],
+   "date": "2026-10-18",
+   "location": "City Expo Hall",
+   "body": [
+    "A fan-run fan convention for the Gaming community. Bring friends and share your favourite moments."
+   ],
+   "id": "i27",
+   "pop": 76
+  },
+  {
+   "cat": "gaming",
+   "type": "event",
+   "title": "Gaming Watch Party Night",
+   "desc": "Online Live Room \u00b7 2026-11-06",
+   "tags": [
+    "esports"
+   ],
+   "date": "2026-11-06",
+   "location": "Online Live Room",
+   "body": [
+    "A fan-run watch party night for the Gaming community. Bring friends and share your favourite moments."
+   ],
+   "id": "i28",
+   "pop": 47
+  },
+  {
+   "cat": "gaming",
+   "type": "event",
+   "title": "Gaming Community Meetup",
+   "desc": "Community Caf\u00e9 \u00b7 2026-08-22",
+   "tags": [
+    "indie"
+   ],
+   "date": "2026-08-22",
+   "location": "Community Caf\u00e9",
+   "body": [
+    "A fan-run community meetup for the Gaming community. Bring friends and share your favourite moments."
+   ],
+   "id": "i29",
+   "pop": 54
+  },
+  {
+   "cat": "gaming",
+   "type": "video",
+   "title": "Gaming: Official-style Trailer: Season Preview",
+   "desc": "Trailer \u00b7 upcoming",
+   "tags": [
+    "rpg",
+    "trailer"
+   ],
+   "date": "2026-09-01",
+   "status": "upcoming",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i30",
+   "pop": 80
+  },
+  {
+   "cat": "gaming",
+   "type": "video",
+   "title": "Gaming: Recently Released Trailer",
+   "desc": "Trailer \u00b7 released",
+   "tags": [
+    "esports",
+    "trailer"
+   ],
+   "date": "2026-09-02",
+   "status": "released",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i31",
+   "pop": 80
+  },
+  {
+   "cat": "gaming",
+   "type": "video",
+   "title": "Gaming Creator Interview",
+   "desc": "Interview with a fan creator.",
+   "tags": [
+    "rpg",
+    "interview"
+   ],
+   "date": "2026-08-01",
+   "kind": "interview",
+   "src": "herovideo.mp4",
+   "id": "i32",
+   "pop": 77
+  },
+  {
+   "cat": "gaming",
+   "type": "audio",
+   "title": "Gaming Podcast Ep. 1",
+   "desc": "Podcast-style audio clip.",
+   "tags": [
+    "esports",
+    "podcast"
+   ],
+   "date": "2026-07-15",
+   "src": "audio/clip.wav",
+   "id": "i33",
+   "pop": 43
+  },
+  {
+   "cat": "gaming",
+   "type": "gallery",
+   "title": "Gaming Image Gallery",
+   "desc": "Six original artworks. Open the lightbox.",
+   "tags": [
+    "indie"
+   ],
+   "date": "2026-09-10",
+   "count": 6,
+   "id": "i34",
+   "pop": 76
+  },
+  {
+   "cat": "gaming",
+   "type": "release",
+   "title": "Gaming Release #1",
+   "desc": "Upcoming release \u00b7 2026-12-05",
+   "tags": [
+    "rpg"
+   ],
+   "date": "2026-12-05",
+   "id": "i35",
+   "pop": 77
+  },
+  {
+   "cat": "gaming",
+   "type": "release",
+   "title": "Gaming Release #2",
+   "desc": "Upcoming release \u00b7 2027-01-16",
+   "tags": [
+    "esports"
+   ],
+   "date": "2027-01-16",
+   "id": "i36",
+   "pop": 65
+  },
+  {
+   "cat": "movies",
+   "type": "article",
+   "title": "A beginner's guide to Movies",
+   "desc": "Featured Movies read #1 for new and long-time fans.",
+   "tags": [
+    "sci-fi",
+    "drama"
+   ],
+   "date": "2026-09-12",
+   "body": [
+    "Movies communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the sci-fi side of Movies special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i37",
+   "pop": 43
+  },
+  {
+   "cat": "movies",
+   "type": "article",
+   "title": "Top five Movies moments this year",
+   "desc": "Featured Movies read #2 for new and long-time fans.",
+   "tags": [
+    "drama",
+    "action"
+   ],
+   "date": "2026-08-13",
+   "body": [
+    "Movies communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the drama side of Movies special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i38",
+   "pop": 54
+  },
+  {
+   "cat": "movies",
+   "type": "article",
+   "title": "Why Movies fans love community events",
+   "desc": "Featured Movies read #3 for new and long-time fans.",
+   "tags": [
+    "action",
+    "animation"
+   ],
+   "date": "2026-07-14",
+   "body": [
+    "Movies communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the action side of Movies special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i39",
+   "pop": 42
+  },
+  {
+   "cat": "movies",
+   "type": "character",
+   "title": "Elena Marsh",
+   "desc": "Last Lighthouse \u00b7 calm and loyal.",
+   "tags": [
+    "sci-fi"
+   ],
+   "date": "2026-01-05",
+   "series": "Last Lighthouse",
+   "traits": [
+    "calm",
+    "loyal",
+    "fierce"
+   ],
+   "bio": "Elena Marsh is a fictional lead from Last Lighthouse, known for being calm and loyal under pressure.",
+   "id": "i40",
+   "pop": 75
+  },
+  {
+   "cat": "movies",
+   "type": "character",
+   "title": "Dr. Aldo Finch",
+   "desc": "Last Lighthouse \u00b7 brave and mysterious.",
+   "tags": [
+    "drama"
+   ],
+   "date": "2026-02-05",
+   "series": "Last Lighthouse",
+   "traits": [
+    "brave",
+    "mysterious",
+    "kind"
+   ],
+   "bio": "Dr. Aldo Finch is a fictional lead from Last Lighthouse, known for being brave and mysterious under pressure.",
+   "id": "i41",
+   "pop": 94
+  },
+  {
+   "cat": "movies",
+   "type": "character",
+   "title": "Nova Quill",
+   "desc": "Orbit Nine \u00b7 witty and fierce.",
+   "tags": [
+    "action"
+   ],
+   "date": "2026-03-05",
+   "series": "Orbit Nine",
+   "traits": [
+    "witty",
+    "fierce",
+    "clever"
+   ],
+   "bio": "Nova Quill is a fictional lead from Orbit Nine, known for being witty and fierce under pressure.",
+   "id": "i42",
+   "pop": 48
+  },
+  {
+   "cat": "movies",
+   "type": "character",
+   "title": "Sable Knight",
+   "desc": "Orbit Nine \u00b7 loyal and kind.",
+   "tags": [
+    "animation"
+   ],
+   "date": "2026-04-05",
+   "series": "Orbit Nine",
+   "traits": [
+    "loyal",
+    "kind",
+    "calm"
+   ],
+   "bio": "Sable Knight is a fictional lead from Orbit Nine, known for being loyal and kind under pressure.",
+   "id": "i43",
+   "pop": 58
+  },
+  {
+   "cat": "movies",
+   "type": "character",
+   "title": "Iris Tan",
+   "desc": "Paper Cities \u00b7 mysterious and clever.",
+   "tags": [
+    "sci-fi"
+   ],
+   "date": "2026-05-05",
+   "series": "Paper Cities",
+   "traits": [
+    "mysterious",
+    "clever",
+    "brave"
+   ],
+   "bio": "Iris Tan is a fictional lead from Paper Cities, known for being mysterious and clever under pressure.",
+   "id": "i44",
+   "pop": 66
+  },
+  {
+   "cat": "movies",
+   "type": "event",
+   "title": "Movies Fan Convention",
+   "desc": "City Expo Hall \u00b7 2026-10-18",
+   "tags": [
+    "sci-fi"
+   ],
+   "date": "2026-10-18",
+   "location": "City Expo Hall",
+   "body": [
+    "A fan-run fan convention for the Movies community. Bring friends and share your favourite moments."
+   ],
+   "id": "i45",
+   "pop": 49
+  },
+  {
+   "cat": "movies",
+   "type": "event",
+   "title": "Movies Watch Party Night",
+   "desc": "Online Live Room \u00b7 2026-11-06",
+   "tags": [
+    "drama"
+   ],
+   "date": "2026-11-06",
+   "location": "Online Live Room",
+   "body": [
+    "A fan-run watch party night for the Movies community. Bring friends and share your favourite moments."
+   ],
+   "id": "i46",
+   "pop": 74
+  },
+  {
+   "cat": "movies",
+   "type": "event",
+   "title": "Movies Community Meetup",
+   "desc": "Community Caf\u00e9 \u00b7 2026-08-22",
+   "tags": [
+    "action"
+   ],
+   "date": "2026-08-22",
+   "location": "Community Caf\u00e9",
+   "body": [
+    "A fan-run community meetup for the Movies community. Bring friends and share your favourite moments."
+   ],
+   "id": "i47",
+   "pop": 47
+  },
+  {
+   "cat": "movies",
+   "type": "video",
+   "title": "Movies: Official-style Trailer: Season Preview",
+   "desc": "Trailer \u00b7 upcoming",
+   "tags": [
+    "sci-fi",
+    "trailer"
+   ],
+   "date": "2026-09-01",
+   "status": "upcoming",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i48",
+   "pop": 76
+  },
+  {
+   "cat": "movies",
+   "type": "video",
+   "title": "Movies: Recently Released Trailer",
+   "desc": "Trailer \u00b7 released",
+   "tags": [
+    "drama",
+    "trailer"
+   ],
+   "date": "2026-09-02",
+   "status": "released",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i49",
+   "pop": 59
+  },
+  {
+   "cat": "movies",
+   "type": "video",
+   "title": "Movies Creator Interview",
+   "desc": "Interview with a fan creator.",
+   "tags": [
+    "sci-fi",
+    "interview"
+   ],
+   "date": "2026-08-01",
+   "kind": "interview",
+   "src": "herovideo.mp4",
+   "id": "i50",
+   "pop": 75
+  },
+  {
+   "cat": "movies",
+   "type": "audio",
+   "title": "Movies Podcast Ep. 1",
+   "desc": "Podcast-style audio clip.",
+   "tags": [
+    "drama",
+    "podcast"
+   ],
+   "date": "2026-07-15",
+   "src": "audio/clip.wav",
+   "id": "i51",
+   "pop": 92
+  },
+  {
+   "cat": "movies",
+   "type": "gallery",
+   "title": "Movies Image Gallery",
+   "desc": "Six original artworks. Open the lightbox.",
+   "tags": [
+    "action"
+   ],
+   "date": "2026-09-10",
+   "count": 6,
+   "id": "i52",
+   "pop": 83
+  },
+  {
+   "cat": "movies",
+   "type": "release",
+   "title": "Movies Release #1",
+   "desc": "Upcoming release \u00b7 2026-12-05",
+   "tags": [
+    "sci-fi"
+   ],
+   "date": "2026-12-05",
+   "id": "i53",
+   "pop": 51
+  },
+  {
+   "cat": "movies",
+   "type": "release",
+   "title": "Movies Release #2",
+   "desc": "Upcoming release \u00b7 2027-01-16",
+   "tags": [
+    "drama"
+   ],
+   "date": "2027-01-16",
+   "id": "i54",
+   "pop": 46
+  },
+  {
+   "cat": "tv",
+   "type": "article",
+   "title": "A beginner's guide to TV Shows",
+   "desc": "Featured TV Shows read #1 for new and long-time fans.",
+   "tags": [
+    "drama",
+    "comedy"
+   ],
+   "date": "2026-09-12",
+   "body": [
+    "TV Shows communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the drama side of TV Shows special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i55",
+   "pop": 77
+  },
+  {
+   "cat": "tv",
+   "type": "article",
+   "title": "Top five TV Shows moments this year",
+   "desc": "Featured TV Shows read #2 for new and long-time fans.",
+   "tags": [
+    "comedy",
+    "mystery"
+   ],
+   "date": "2026-08-13",
+   "body": [
+    "TV Shows communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the comedy side of TV Shows special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i56",
+   "pop": 76
+  },
+  {
+   "cat": "tv",
+   "type": "article",
+   "title": "Why TV Shows fans love community events",
+   "desc": "Featured TV Shows read #3 for new and long-time fans.",
+   "tags": [
+    "mystery",
+    "docuseries"
+   ],
+   "date": "2026-07-14",
+   "body": [
+    "TV Shows communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the mystery side of TV Shows special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i57",
+   "pop": 80
+  },
+  {
+   "cat": "tv",
+   "type": "character",
+   "title": "Harper Lane",
+   "desc": "Midnight Diner \u00b7 calm and loyal.",
+   "tags": [
+    "drama"
+   ],
+   "date": "2026-01-05",
+   "series": "Midnight Diner",
+   "traits": [
+    "calm",
+    "loyal",
+    "fierce"
+   ],
+   "bio": "Harper Lane is a fictional lead from Midnight Diner, known for being calm and loyal under pressure.",
+   "id": "i58",
+   "pop": 52
+  },
+  {
+   "cat": "tv",
+   "type": "character",
+   "title": "Otis Reed",
+   "desc": "Midnight Diner \u00b7 brave and mysterious.",
+   "tags": [
+    "comedy"
+   ],
+   "date": "2026-02-05",
+   "series": "Midnight Diner",
+   "traits": [
+    "brave",
+    "mysterious",
+    "kind"
+   ],
+   "bio": "Otis Reed is a fictional lead from Midnight Diner, known for being brave and mysterious under pressure.",
+   "id": "i59",
+   "pop": 63
+  },
+  {
+   "cat": "tv",
+   "type": "character",
+   "title": "Selene Cho",
+   "desc": "Harbor Nine \u00b7 witty and fierce.",
+   "tags": [
+    "mystery"
+   ],
+   "date": "2026-03-05",
+   "series": "Harbor Nine",
+   "traits": [
+    "witty",
+    "fierce",
+    "clever"
+   ],
+   "bio": "Selene Cho is a fictional lead from Harbor Nine, known for being witty and fierce under pressure.",
+   "id": "i60",
+   "pop": 46
+  },
+  {
+   "cat": "tv",
+   "type": "character",
+   "title": "Marcus Bell",
+   "desc": "Harbor Nine \u00b7 loyal and kind.",
+   "tags": [
+    "docuseries"
+   ],
+   "date": "2026-04-05",
+   "series": "Harbor Nine",
+   "traits": [
+    "loyal",
+    "kind",
+    "calm"
+   ],
+   "bio": "Marcus Bell is a fictional lead from Harbor Nine, known for being loyal and kind under pressure.",
+   "id": "i61",
+   "pop": 75
+  },
+  {
+   "cat": "tv",
+   "type": "character",
+   "title": "Tilly Frost",
+   "desc": "Frost & Co \u00b7 mysterious and clever.",
+   "tags": [
+    "drama"
+   ],
+   "date": "2026-05-05",
+   "series": "Frost & Co",
+   "traits": [
+    "mysterious",
+    "clever",
+    "brave"
+   ],
+   "bio": "Tilly Frost is a fictional lead from Frost & Co, known for being mysterious and clever under pressure.",
+   "id": "i62",
+   "pop": 85
+  },
+  {
+   "cat": "tv",
+   "type": "event",
+   "title": "TV Shows Fan Convention",
+   "desc": "City Expo Hall \u00b7 2026-10-18",
+   "tags": [
+    "drama"
+   ],
+   "date": "2026-10-18",
+   "location": "City Expo Hall",
+   "body": [
+    "A fan-run fan convention for the TV Shows community. Bring friends and share your favourite moments."
+   ],
+   "id": "i63",
+   "pop": 44
+  },
+  {
+   "cat": "tv",
+   "type": "event",
+   "title": "TV Shows Watch Party Night",
+   "desc": "Online Live Room \u00b7 2026-11-06",
+   "tags": [
+    "comedy"
+   ],
+   "date": "2026-11-06",
+   "location": "Online Live Room",
+   "body": [
+    "A fan-run watch party night for the TV Shows community. Bring friends and share your favourite moments."
+   ],
+   "id": "i64",
+   "pop": 76
+  },
+  {
+   "cat": "tv",
+   "type": "event",
+   "title": "TV Shows Community Meetup",
+   "desc": "Community Caf\u00e9 \u00b7 2026-08-22",
+   "tags": [
+    "mystery"
+   ],
+   "date": "2026-08-22",
+   "location": "Community Caf\u00e9",
+   "body": [
+    "A fan-run community meetup for the TV Shows community. Bring friends and share your favourite moments."
+   ],
+   "id": "i65",
+   "pop": 43
+  },
+  {
+   "cat": "tv",
+   "type": "video",
+   "title": "TV Shows: Official-style Trailer: Season Preview",
+   "desc": "Trailer \u00b7 upcoming",
+   "tags": [
+    "drama",
+    "trailer"
+   ],
+   "date": "2026-09-01",
+   "status": "upcoming",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i66",
+   "pop": 79
+  },
+  {
+   "cat": "tv",
+   "type": "video",
+   "title": "TV Shows: Recently Released Trailer",
+   "desc": "Trailer \u00b7 released",
+   "tags": [
+    "comedy",
+    "trailer"
+   ],
+   "date": "2026-09-02",
+   "status": "released",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i67",
+   "pop": 53
+  },
+  {
+   "cat": "tv",
+   "type": "video",
+   "title": "TV Shows Creator Interview",
+   "desc": "Interview with a fan creator.",
+   "tags": [
+    "drama",
+    "interview"
+   ],
+   "date": "2026-08-01",
+   "kind": "interview",
+   "src": "herovideo.mp4",
+   "id": "i68",
+   "pop": 71
+  },
+  {
+   "cat": "tv",
+   "type": "audio",
+   "title": "TV Shows Podcast Ep. 1",
+   "desc": "Podcast-style audio clip.",
+   "tags": [
+    "comedy",
+    "podcast"
+   ],
+   "date": "2026-07-15",
+   "src": "audio/clip.wav",
+   "id": "i69",
+   "pop": 83
+  },
+  {
+   "cat": "tv",
+   "type": "gallery",
+   "title": "TV Shows Image Gallery",
+   "desc": "Six original artworks. Open the lightbox.",
+   "tags": [
+    "mystery"
+   ],
+   "date": "2026-09-10",
+   "count": 6,
+   "id": "i70",
+   "pop": 74
+  },
+  {
+   "cat": "tv",
+   "type": "release",
+   "title": "TV Shows Release #1",
+   "desc": "Upcoming release \u00b7 2026-12-05",
+   "tags": [
+    "drama"
+   ],
+   "date": "2026-12-05",
+   "id": "i71",
+   "pop": 67
+  },
+  {
+   "cat": "tv",
+   "type": "release",
+   "title": "TV Shows Release #2",
+   "desc": "Upcoming release \u00b7 2027-01-16",
+   "tags": [
+    "comedy"
+   ],
+   "date": "2027-01-16",
+   "id": "i72",
+   "pop": 89
+  },
+  {
+   "cat": "kpop",
+   "type": "article",
+   "title": "A beginner's guide to K-Pop",
+   "desc": "Featured K-Pop read #1 for new and long-time fans.",
+   "tags": [
+    "comeback",
+    "tour"
+   ],
+   "date": "2026-09-12",
+   "body": [
+    "K-Pop communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the comeback side of K-Pop special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i73",
+   "pop": 60
+  },
+  {
+   "cat": "kpop",
+   "type": "article",
+   "title": "Top five K-Pop moments this year",
+   "desc": "Featured K-Pop read #2 for new and long-time fans.",
+   "tags": [
+    "tour",
+    "dance"
+   ],
+   "date": "2026-08-13",
+   "body": [
+    "K-Pop communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the tour side of K-Pop special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i74",
+   "pop": 69
+  },
+  {
+   "cat": "kpop",
+   "type": "article",
+   "title": "Why K-Pop fans love community events",
+   "desc": "Featured K-Pop read #3 for new and long-time fans.",
+   "tags": [
+    "dance",
+    "debut"
+   ],
+   "date": "2026-07-14",
+   "body": [
+    "K-Pop communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the dance side of K-Pop special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i75",
+   "pop": 77
+  },
+  {
+   "cat": "kpop",
+   "type": "character",
+   "title": "Luna",
+   "desc": "Starline \u00b7 calm and loyal.",
+   "tags": [
+    "comeback"
+   ],
+   "date": "2026-01-05",
+   "series": "Starline",
+   "traits": [
+    "calm",
+    "loyal",
+    "fierce"
+   ],
+   "bio": "Luna is a fictional lead from Starline, known for being calm and loyal under pressure.",
+   "id": "i76",
+   "pop": 99
+  },
+  {
+   "cat": "kpop",
+   "type": "character",
+   "title": "Jiho",
+   "desc": "Starline \u00b7 brave and mysterious.",
+   "tags": [
+    "tour"
+   ],
+   "date": "2026-02-05",
+   "series": "Starline",
+   "traits": [
+    "brave",
+    "mysterious",
+    "kind"
+   ],
+   "bio": "Jiho is a fictional lead from Starline, known for being brave and mysterious under pressure.",
+   "id": "i77",
+   "pop": 69
+  },
+  {
+   "cat": "kpop",
+   "type": "character",
+   "title": "Hana",
+   "desc": "Velvet Echo \u00b7 witty and fierce.",
+   "tags": [
+    "dance"
+   ],
+   "date": "2026-03-05",
+   "series": "Velvet Echo",
+   "traits": [
+    "witty",
+    "fierce",
+    "clever"
+   ],
+   "bio": "Hana is a fictional lead from Velvet Echo, known for being witty and fierce under pressure.",
+   "id": "i78",
+   "pop": 63
+  },
+  {
+   "cat": "kpop",
+   "type": "character",
+   "title": "Dae",
+   "desc": "Velvet Echo \u00b7 loyal and kind.",
+   "tags": [
+    "debut"
+   ],
+   "date": "2026-04-05",
+   "series": "Velvet Echo",
+   "traits": [
+    "loyal",
+    "kind",
+    "calm"
+   ],
+   "bio": "Dae is a fictional lead from Velvet Echo, known for being loyal and kind under pressure.",
+   "id": "i79",
+   "pop": 59
+  },
+  {
+   "cat": "kpop",
+   "type": "character",
+   "title": "Mio",
+   "desc": "Neon Bloom \u00b7 mysterious and clever.",
+   "tags": [
+    "comeback"
+   ],
+   "date": "2026-05-05",
+   "series": "Neon Bloom",
+   "traits": [
+    "mysterious",
+    "clever",
+    "brave"
+   ],
+   "bio": "Mio is a fictional lead from Neon Bloom, known for being mysterious and clever under pressure.",
+   "id": "i80",
+   "pop": 55
+  },
+  {
+   "cat": "kpop",
+   "type": "event",
+   "title": "K-Pop Fan Convention",
+   "desc": "City Expo Hall \u00b7 2026-10-18",
+   "tags": [
+    "comeback"
+   ],
+   "date": "2026-10-18",
+   "location": "City Expo Hall",
+   "body": [
+    "A fan-run fan convention for the K-Pop community. Bring friends and share your favourite moments."
+   ],
+   "id": "i81",
+   "pop": 90
+  },
+  {
+   "cat": "kpop",
+   "type": "event",
+   "title": "K-Pop Watch Party Night",
+   "desc": "Online Live Room \u00b7 2026-11-06",
+   "tags": [
+    "tour"
+   ],
+   "date": "2026-11-06",
+   "location": "Online Live Room",
+   "body": [
+    "A fan-run watch party night for the K-Pop community. Bring friends and share your favourite moments."
+   ],
+   "id": "i82",
+   "pop": 51
+  },
+  {
+   "cat": "kpop",
+   "type": "event",
+   "title": "K-Pop Community Meetup",
+   "desc": "Community Caf\u00e9 \u00b7 2026-08-22",
+   "tags": [
+    "dance"
+   ],
+   "date": "2026-08-22",
+   "location": "Community Caf\u00e9",
+   "body": [
+    "A fan-run community meetup for the K-Pop community. Bring friends and share your favourite moments."
+   ],
+   "id": "i83",
+   "pop": 84
+  },
+  {
+   "cat": "kpop",
+   "type": "video",
+   "title": "K-Pop: Official-style Trailer: Season Preview",
+   "desc": "Trailer \u00b7 upcoming",
+   "tags": [
+    "comeback",
+    "trailer"
+   ],
+   "date": "2026-09-01",
+   "status": "upcoming",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i84",
+   "pop": 89
+  },
+  {
+   "cat": "kpop",
+   "type": "video",
+   "title": "K-Pop: Recently Released Trailer",
+   "desc": "Trailer \u00b7 released",
+   "tags": [
+    "tour",
+    "trailer"
+   ],
+   "date": "2026-09-02",
+   "status": "released",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i85",
+   "pop": 55
+  },
+  {
+   "cat": "kpop",
+   "type": "video",
+   "title": "K-Pop Creator Interview",
+   "desc": "Interview with a fan creator.",
+   "tags": [
+    "comeback",
+    "interview"
+   ],
+   "date": "2026-08-01",
+   "kind": "interview",
+   "src": "herovideo.mp4",
+   "id": "i86",
+   "pop": 45
+  },
+  {
+   "cat": "kpop",
+   "type": "audio",
+   "title": "K-Pop Podcast Ep. 1",
+   "desc": "Podcast-style audio clip.",
+   "tags": [
+    "tour",
+    "podcast"
+   ],
+   "date": "2026-07-15",
+   "src": "audio/clip.wav",
+   "id": "i87",
+   "pop": 76
+  },
+  {
+   "cat": "kpop",
+   "type": "gallery",
+   "title": "K-Pop Image Gallery",
+   "desc": "Six original artworks. Open the lightbox.",
+   "tags": [
+    "dance"
+   ],
+   "date": "2026-09-10",
+   "count": 6,
+   "id": "i88",
+   "pop": 59
+  },
+  {
+   "cat": "kpop",
+   "type": "release",
+   "title": "K-Pop Release #1",
+   "desc": "Upcoming release \u00b7 2026-12-05",
+   "tags": [
+    "comeback"
+   ],
+   "date": "2026-12-05",
+   "id": "i89",
+   "pop": 73
+  },
+  {
+   "cat": "kpop",
+   "type": "release",
+   "title": "K-Pop Release #2",
+   "desc": "Upcoming release \u00b7 2027-01-16",
+   "tags": [
+    "tour"
+   ],
+   "date": "2027-01-16",
+   "id": "i90",
+   "pop": 71
+  },
+  {
+   "cat": "comics",
+   "type": "article",
+   "title": "A beginner's guide to Comics",
+   "desc": "Featured Comics read #1 for new and long-time fans.",
+   "tags": [
+    "superhero",
+    "indie"
+   ],
+   "date": "2026-09-12",
+   "body": [
+    "Comics communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the superhero side of Comics special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i91",
+   "pop": 96
+  },
+  {
+   "cat": "comics",
+   "type": "article",
+   "title": "Top five Comics moments this year",
+   "desc": "Featured Comics read #2 for new and long-time fans.",
+   "tags": [
+    "indie",
+    "graphic novel"
+   ],
+   "date": "2026-08-13",
+   "body": [
+    "Comics communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the indie side of Comics special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i92",
+   "pop": 61
+  },
+  {
+   "cat": "comics",
+   "type": "article",
+   "title": "Why Comics fans love community events",
+   "desc": "Featured Comics read #3 for new and long-time fans.",
+   "tags": [
+    "graphic novel",
+    "webcomic"
+   ],
+   "date": "2026-07-14",
+   "body": [
+    "Comics communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the graphic novel side of Comics special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i93",
+   "pop": 86
+  },
+  {
+   "cat": "comics",
+   "type": "character",
+   "title": "Captain Comet",
+   "desc": "Comet Corps \u00b7 calm and loyal.",
+   "tags": [
+    "superhero"
+   ],
+   "date": "2026-01-05",
+   "series": "Comet Corps",
+   "traits": [
+    "calm",
+    "loyal",
+    "fierce"
+   ],
+   "bio": "Captain Comet is a fictional lead from Comet Corps, known for being calm and loyal under pressure.",
+   "id": "i94",
+   "pop": 68
+  },
+  {
+   "cat": "comics",
+   "type": "character",
+   "title": "Shade Wren",
+   "desc": "Comet Corps \u00b7 brave and mysterious.",
+   "tags": [
+    "indie"
+   ],
+   "date": "2026-02-05",
+   "series": "Comet Corps",
+   "traits": [
+    "brave",
+    "mysterious",
+    "kind"
+   ],
+   "bio": "Shade Wren is a fictional lead from Comet Corps, known for being brave and mysterious under pressure.",
+   "id": "i95",
+   "pop": 58
+  },
+  {
+   "cat": "comics",
+   "type": "character",
+   "title": "Dr. Gizmo",
+   "desc": "Gadget Guild \u00b7 witty and fierce.",
+   "tags": [
+    "graphic novel"
+   ],
+   "date": "2026-03-05",
+   "series": "Gadget Guild",
+   "traits": [
+    "witty",
+    "fierce",
+    "clever"
+   ],
+   "bio": "Dr. Gizmo is a fictional lead from Gadget Guild, known for being witty and fierce under pressure.",
+   "id": "i96",
+   "pop": 78
+  },
+  {
+   "cat": "comics",
+   "type": "character",
+   "title": "Ivy Ember",
+   "desc": "Gadget Guild \u00b7 loyal and kind.",
+   "tags": [
+    "webcomic"
+   ],
+   "date": "2026-04-05",
+   "series": "Gadget Guild",
+   "traits": [
+    "loyal",
+    "kind",
+    "calm"
+   ],
+   "bio": "Ivy Ember is a fictional lead from Gadget Guild, known for being loyal and kind under pressure.",
+   "id": "i97",
+   "pop": 44
+  },
+  {
+   "cat": "comics",
+   "type": "character",
+   "title": "Bolt Baron",
+   "desc": "Iron Alley \u00b7 mysterious and clever.",
+   "tags": [
+    "superhero"
+   ],
+   "date": "2026-05-05",
+   "series": "Iron Alley",
+   "traits": [
+    "mysterious",
+    "clever",
+    "brave"
+   ],
+   "bio": "Bolt Baron is a fictional lead from Iron Alley, known for being mysterious and clever under pressure.",
+   "id": "i98",
+   "pop": 47
+  },
+  {
+   "cat": "comics",
+   "type": "event",
+   "title": "Comics Fan Convention",
+   "desc": "City Expo Hall \u00b7 2026-10-18",
+   "tags": [
+    "superhero"
+   ],
+   "date": "2026-10-18",
+   "location": "City Expo Hall",
+   "body": [
+    "A fan-run fan convention for the Comics community. Bring friends and share your favourite moments."
+   ],
+   "id": "i99",
+   "pop": 72
+  },
+  {
+   "cat": "comics",
+   "type": "event",
+   "title": "Comics Watch Party Night",
+   "desc": "Online Live Room \u00b7 2026-11-06",
+   "tags": [
+    "indie"
+   ],
+   "date": "2026-11-06",
+   "location": "Online Live Room",
+   "body": [
+    "A fan-run watch party night for the Comics community. Bring friends and share your favourite moments."
+   ],
+   "id": "i100",
+   "pop": 66
+  },
+  {
+   "cat": "comics",
+   "type": "event",
+   "title": "Comics Community Meetup",
+   "desc": "Community Caf\u00e9 \u00b7 2026-08-22",
+   "tags": [
+    "graphic novel"
+   ],
+   "date": "2026-08-22",
+   "location": "Community Caf\u00e9",
+   "body": [
+    "A fan-run community meetup for the Comics community. Bring friends and share your favourite moments."
+   ],
+   "id": "i101",
+   "pop": 50
+  },
+  {
+   "cat": "comics",
+   "type": "video",
+   "title": "Comics: Official-style Trailer: Season Preview",
+   "desc": "Trailer \u00b7 upcoming",
+   "tags": [
+    "superhero",
+    "trailer"
+   ],
+   "date": "2026-09-01",
+   "status": "upcoming",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i102",
+   "pop": 88
+  },
+  {
+   "cat": "comics",
+   "type": "video",
+   "title": "Comics: Recently Released Trailer",
+   "desc": "Trailer \u00b7 released",
+   "tags": [
+    "indie",
+    "trailer"
+   ],
+   "date": "2026-09-02",
+   "status": "released",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i103",
+   "pop": 61
+  },
+  {
+   "cat": "comics",
+   "type": "video",
+   "title": "Comics Creator Interview",
+   "desc": "Interview with a fan creator.",
+   "tags": [
+    "superhero",
+    "interview"
+   ],
+   "date": "2026-08-01",
+   "kind": "interview",
+   "src": "herovideo.mp4",
+   "id": "i104",
+   "pop": 49
+  },
+  {
+   "cat": "comics",
+   "type": "audio",
+   "title": "Comics Podcast Ep. 1",
+   "desc": "Podcast-style audio clip.",
+   "tags": [
+    "indie",
+    "podcast"
+   ],
+   "date": "2026-07-15",
+   "src": "audio/clip.wav",
+   "id": "i105",
+   "pop": 99
+  },
+  {
+   "cat": "comics",
+   "type": "gallery",
+   "title": "Comics Image Gallery",
+   "desc": "Six original artworks. Open the lightbox.",
+   "tags": [
+    "graphic novel"
+   ],
+   "date": "2026-09-10",
+   "count": 6,
+   "id": "i106",
+   "pop": 71
+  },
+  {
+   "cat": "comics",
+   "type": "release",
+   "title": "Comics Release #1",
+   "desc": "Upcoming release \u00b7 2026-12-05",
+   "tags": [
+    "superhero"
+   ],
+   "date": "2026-12-05",
+   "id": "i107",
+   "pop": 66
+  },
+  {
+   "cat": "comics",
+   "type": "release",
+   "title": "Comics Release #2",
+   "desc": "Upcoming release \u00b7 2027-01-16",
+   "tags": [
+    "indie"
+   ],
+   "date": "2027-01-16",
+   "id": "i108",
+   "pop": 42
+  },
+  {
+   "cat": "manga",
+   "type": "article",
+   "title": "A beginner's guide to Manga",
+   "desc": "Featured Manga read #1 for new and long-time fans.",
+   "tags": [
+    "action",
+    "romance"
+   ],
+   "date": "2026-09-12",
+   "body": [
+    "Manga communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the action side of Manga special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i109",
+   "pop": 82
+  },
+  {
+   "cat": "manga",
+   "type": "article",
+   "title": "Top five Manga moments this year",
+   "desc": "Featured Manga read #2 for new and long-time fans.",
+   "tags": [
+    "romance",
+    "horror"
+   ],
+   "date": "2026-08-13",
+   "body": [
+    "Manga communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the romance side of Manga special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i110",
+   "pop": 44
+  },
+  {
+   "cat": "manga",
+   "type": "article",
+   "title": "Why Manga fans love community events",
+   "desc": "Featured Manga read #3 for new and long-time fans.",
+   "tags": [
+    "horror",
+    "seinen"
+   ],
+   "date": "2026-07-14",
+   "body": [
+    "Manga communities keep growing because fans share a love for great stories and characters.",
+    "In this piece we look at what makes the horror side of Manga special and where to start exploring.",
+    "Join the discussion in the community feed and save your favourite finds to your bookmarks."
+   ],
+   "id": "i111",
+   "pop": 88
+  },
+  {
+   "cat": "manga",
+   "type": "character",
+   "title": "Ren Akagi",
+   "desc": "Ink & Blade \u00b7 calm and loyal.",
+   "tags": [
+    "action"
+   ],
+   "date": "2026-01-05",
+   "series": "Ink & Blade",
+   "traits": [
+    "calm",
+    "loyal",
+    "fierce"
+   ],
+   "bio": "Ren Akagi is a fictional lead from Ink & Blade, known for being calm and loyal under pressure.",
+   "id": "i112",
+   "pop": 75
+  },
+  {
+   "cat": "manga",
+   "type": "character",
+   "title": "Sora Minato",
+   "desc": "Ink & Blade \u00b7 brave and mysterious.",
+   "tags": [
+    "romance"
+   ],
+   "date": "2026-02-05",
+   "series": "Ink & Blade",
+   "traits": [
+    "brave",
+    "mysterious",
+    "kind"
+   ],
+   "bio": "Sora Minato is a fictional lead from Ink & Blade, known for being brave and mysterious under pressure.",
+   "id": "i113",
+   "pop": 76
+  },
+  {
+   "cat": "manga",
+   "type": "character",
+   "title": "Haru Kuro",
+   "desc": "Moon Ledger \u00b7 witty and fierce.",
+   "tags": [
+    "horror"
+   ],
+   "date": "2026-03-05",
+   "series": "Moon Ledger",
+   "traits": [
+    "witty",
+    "fierce",
+    "clever"
+   ],
+   "bio": "Haru Kuro is a fictional lead from Moon Ledger, known for being witty and fierce under pressure.",
+   "id": "i114",
+   "pop": 90
+  },
+  {
+   "cat": "manga",
+   "type": "character",
+   "title": "Mei Tsuki",
+   "desc": "Moon Ledger \u00b7 loyal and kind.",
+   "tags": [
+    "seinen"
+   ],
+   "date": "2026-04-05",
+   "series": "Moon Ledger",
+   "traits": [
+    "loyal",
+    "kind",
+    "calm"
+   ],
+   "bio": "Mei Tsuki is a fictional lead from Moon Ledger, known for being loyal and kind under pressure.",
+   "id": "i115",
+   "pop": 96
+  },
+  {
+   "cat": "manga",
+   "type": "character",
+   "title": "Old Master Dan",
+   "desc": "Tea House Duel \u00b7 mysterious and clever.",
+   "tags": [
+    "action"
+   ],
+   "date": "2026-05-05",
+   "series": "Tea House Duel",
+   "traits": [
+    "mysterious",
+    "clever",
+    "brave"
+   ],
+   "bio": "Old Master Dan is a fictional lead from Tea House Duel, known for being mysterious and clever under pressure.",
+   "id": "i116",
+   "pop": 92
+  },
+  {
+   "cat": "manga",
+   "type": "event",
+   "title": "Manga Fan Convention",
+   "desc": "City Expo Hall \u00b7 2026-10-18",
+   "tags": [
+    "action"
+   ],
+   "date": "2026-10-18",
+   "location": "City Expo Hall",
+   "body": [
+    "A fan-run fan convention for the Manga community. Bring friends and share your favourite moments."
+   ],
+   "id": "i117",
+   "pop": 60
+  },
+  {
+   "cat": "manga",
+   "type": "event",
+   "title": "Manga Watch Party Night",
+   "desc": "Online Live Room \u00b7 2026-11-06",
+   "tags": [
+    "romance"
+   ],
+   "date": "2026-11-06",
+   "location": "Online Live Room",
+   "body": [
+    "A fan-run watch party night for the Manga community. Bring friends and share your favourite moments."
+   ],
+   "id": "i118",
+   "pop": 61
+  },
+  {
+   "cat": "manga",
+   "type": "event",
+   "title": "Manga Community Meetup",
+   "desc": "Community Caf\u00e9 \u00b7 2026-08-22",
+   "tags": [
+    "horror"
+   ],
+   "date": "2026-08-22",
+   "location": "Community Caf\u00e9",
+   "body": [
+    "A fan-run community meetup for the Manga community. Bring friends and share your favourite moments."
+   ],
+   "id": "i119",
+   "pop": 84
+  },
+  {
+   "cat": "manga",
+   "type": "video",
+   "title": "Manga: Official-style Trailer: Season Preview",
+   "desc": "Trailer \u00b7 upcoming",
+   "tags": [
+    "action",
+    "trailer"
+   ],
+   "date": "2026-09-01",
+   "status": "upcoming",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i120",
+   "pop": 62
+  },
+  {
+   "cat": "manga",
+   "type": "video",
+   "title": "Manga: Recently Released Trailer",
+   "desc": "Trailer \u00b7 released",
+   "tags": [
+    "romance",
+    "trailer"
+   ],
+   "date": "2026-09-02",
+   "status": "released",
+   "kind": "trailer",
+   "src": "herovideo.mp4",
+   "id": "i121",
+   "pop": 78
+  },
+  {
+   "cat": "manga",
+   "type": "video",
+   "title": "Manga Creator Interview",
+   "desc": "Interview with a fan creator.",
+   "tags": [
+    "action",
+    "interview"
+   ],
+   "date": "2026-08-01",
+   "kind": "interview",
+   "src": "herovideo.mp4",
+   "id": "i122",
+   "pop": 71
+  },
+  {
+   "cat": "manga",
+   "type": "audio",
+   "title": "Manga Podcast Ep. 1",
+   "desc": "Podcast-style audio clip.",
+   "tags": [
+    "romance",
+    "podcast"
+   ],
+   "date": "2026-07-15",
+   "src": "audio/clip.wav",
+   "id": "i123",
+   "pop": 77
+  },
+  {
+   "cat": "manga",
+   "type": "gallery",
+   "title": "Manga Image Gallery",
+   "desc": "Six original artworks. Open the lightbox.",
+   "tags": [
+    "horror"
+   ],
+   "date": "2026-09-10",
+   "count": 6,
+   "id": "i124",
+   "pop": 91
+  },
+  {
+   "cat": "manga",
+   "type": "release",
+   "title": "Manga Release #1",
+   "desc": "Upcoming release \u00b7 2026-12-05",
+   "tags": [
+    "action"
+   ],
+   "date": "2026-12-05",
+   "id": "i125",
+   "pop": 69
+  },
+  {
+   "cat": "manga",
+   "type": "release",
+   "title": "Manga Release #2",
+   "desc": "Upcoming release \u00b7 2027-01-16",
+   "tags": [
+    "romance"
+   ],
+   "date": "2027-01-16",
+   "id": "i126",
+   "pop": 44
+  }
+ ],
+ "merch": [
+  {
+   "id": "m0",
+   "name": "Fandom Logo T-Shirt",
+   "price": 18,
+   "desc": "Soft cotton tee with the FandomVerse mark."
+  },
+  {
+   "id": "m1",
+   "name": "Hero Hoodie",
+   "price": 42,
+   "desc": "Midnight hoodie with glow print."
+  },
+  {
+   "id": "m2",
+   "name": "Chibi Figure",
+   "price": 25,
+   "desc": "Original mini collectible figure."
+  },
+  {
+   "id": "m3",
+   "name": "Plush Mascot",
+   "price": 20,
+   "desc": "Squishy portal mascot plush."
+  },
+  {
+   "id": "m4",
+   "name": "Enamel Pin Set",
+   "price": 12,
+   "desc": "Set of five original pins."
+  },
+  {
+   "id": "m5",
+   "name": "Sticker Pack",
+   "price": 6,
+   "desc": "Twenty waterproof stickers."
+  },
+  {
+   "id": "m6",
+   "name": "Canvas Tote",
+   "price": 15,
+   "desc": "Everyday tote for con days."
+  },
+  {
+   "id": "m7",
+   "name": "Mug",
+   "price": 11,
+   "desc": "Ceramic mug, 350 ml."
+  }
+ ],
+ "faq": [
+  {
+   "k": [
+    "hello",
+    "hi",
+    "hey"
+   ],
+   "a": "Hi! I can help you find categories, trailers, merchandise or bookmarks."
+  },
+  {
+   "k": [
+    "trailer",
+    "video"
+   ],
+   "a": "Trailers are in the Trailers section.",
+   "l": "#trailers"
+  },
+  {
+   "k": [
+    "merch",
+    "shop",
+    "buy",
+    "cart"
+   ],
+   "a": "Browse merchandise and add items to your temporary cart.",
+   "l": "#merch"
+  },
+  {
+   "k": [
+    "bookmark",
+    "save",
+    "note"
+   ],
+   "a": "Tap the bookmark icon on any card. Open Saved to add notes or export."
+  },
+  {
+   "k": [
+    "search"
+   ],
+   "a": "Press Ctrl+K or use the search icon; filter by category and type."
+  },
+  {
+   "k": [
+    "contact",
+    "help",
+    "support"
+   ],
+   "a": "Use the Contact section for team details and a map.",
+   "l": "#contact"
+  },
+  {
+   "k": [
+    "about",
+    "team"
+   ],
+   "a": "See the About section.",
+   "l": "#about"
+  },
+  {
+   "k": [
+    "event",
+    "convention"
+   ],
+   "a": "Every category hub lists three events."
+  },
+  {
+   "k": [
+    "login",
+    "sign"
+   ],
+   "a": "Login and Sign Up are UI only and do not authenticate."
+  }
+ ],
+ "contact": {
+  "query": "Aptech Computer Education"
+ }
+}
